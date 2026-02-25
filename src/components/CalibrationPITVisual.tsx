@@ -1,5 +1,3 @@
-import React from 'react';
-
 export function CalibrationPITVisual() {
     return (
         <div className="bg-slate-900 rounded-2xl shadow-xl overflow-hidden border border-slate-800 p-6 space-y-6 mt-6 max-w-4xl mx-auto w-full text-slate-200 text-sm">

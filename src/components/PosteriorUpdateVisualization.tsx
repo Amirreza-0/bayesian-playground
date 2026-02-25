@@ -1,4 +1,4 @@
-import React, { useMemo } from 'react';
+import { useMemo } from 'react';
 import { motion } from 'framer-motion';
 
 // Quick helper to draw two overlapping distributions to represent Prior * Likelihood ∝ Posterior
