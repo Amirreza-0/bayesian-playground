@@ -26,3 +26,7 @@ Built with React, TypeScript, Vite, Tailwind CSS, and Framer Motion.
    ```bash
    npm run build
    ```
+
+## Debugging
+
+1. If `npm install` gives warnings, check if your `node` version matches the one in `package.json` -> `"engines"` section
